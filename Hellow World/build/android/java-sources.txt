@@ -1,0 +1,7 @@
+"/Users/cheng/Documents/Titanium_Studio_Workspace/Hellow World/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/cheng/Documents/Titanium_Studio_Workspace/Hellow World/build/android/gen/com/appcelerator/hellowworld/ApplicationStylesheet.java"
+"/Users/cheng/Documents/Titanium_Studio_Workspace/Hellow World/build/android/gen/com/appcelerator/hellowworld/HellowWorldActivity.java"
+"/Users/cheng/Documents/Titanium_Studio_Workspace/Hellow World/build/android/gen/com/appcelerator/hellowworld/HellowWorldAppInfo.java"
+"/Users/cheng/Documents/Titanium_Studio_Workspace/Hellow World/build/android/gen/com/appcelerator/hellowworld/HellowWorldApplication.java"
+"/Users/cheng/Documents/Titanium_Studio_Workspace/Hellow World/build/android/gen/com/appcelerator/hellowworld/R.java"
+"/Users/cheng/Documents/Titanium_Studio_Workspace/Hellow World/build/android/gen/ti/modules/titanium/ui/R.java"

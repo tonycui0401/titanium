@@ -1,0 +1,11 @@
+=run
+AZUKPoC\:launchMode=run
+AZUKPoC\:launchShortcut=com.appcelerator.titanium.mobile.ui.ios.simulator.iphone.launchShortcut.2028EF86-7C5D-43D1-9410-55AB977DD66B
+Hello\ Alloy\:launchMode=run
+Hello\ Alloy\:launchShortcut=com.appcelerator.titanium.mobile.ui.ios.simulator.ipad.launchShortcut.1330B99E-ECCD-4061-A29B-C1E73E46C1D8
+Hellow\ World\:launchMode=run
+Hellow\ World\:launchShortcut=com.appcelerator.titanium.mobile.ui.android.simulator.launchShortcut.titanium_1_WVGA800
+LAST_LAUNCH_TIMESTAMP=1425299081883
+eclipse.preferences.version=1
+preference.show.console.onError=true
+preference.studio.perspective.version=103

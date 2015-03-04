@@ -1,0 +1,61 @@
+dependencies: \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIiOSProxy.m \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIiOSProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiBase.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiThreading.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiPublicAPI.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiEvaluator.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/KrollContext.h \
+  headers/JavaScriptCore/TiCore.h headers/JavaScriptCore/Ti.h \
+  headers/JavaScriptCore/TiBase.h headers/JavaScriptCore/TiContextRef.h \
+  headers/JavaScriptCore/TiObjectRef.h \
+  headers/JavaScriptCore/TiValueRef.h \
+  headers/JavaScriptCore/WebKitAvailability.h \
+  headers/JavaScriptCore/TiStringRef.h \
+  headers/JavaScriptCore/TiStringRefCF.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/KrollCallback.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/KrollObject.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIiOSAdViewProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIViewProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiViewProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIView.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiAnimation.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiPoint.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiDimension.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiColor.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/ListenerEntry.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiModule.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUtils.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/WebFont.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiFile.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiBuffer.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiBlob.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/LayoutConstraint.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiGradient.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiRect.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiViewTemplate.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/Webcolor.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIiOSTransitionAnimationProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIiOSAttributedStringProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/Ti3DMatrix.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIiOSCoverFlowViewProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIiOSToolbarProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiToolbar.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIiOSTabbedBarProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIiOSDocumentViewerProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiUIiOSNavWindowProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiWindowProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiTab.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiTabGroup.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiViewController.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiControllerProtocols.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiAnimatorProxy.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiSnapBehavior.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiPushBehavior.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiGravityBehavior.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiAnchorAttachBehavior.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiViewAttachBehavior.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiCollisionBehavior.h \
+  /Users/cheng/Documents/Titanium_Studio_Workspace/Hellow\ World/build/iphone/Classes/TiDynamicItemBehavior.h
